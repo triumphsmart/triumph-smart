@@ -1045,11 +1045,13 @@ img {
 }
 
 .project-three {
-  background: #aaaaaa;
+  background: #000000;
+  color: #ffffff;
 }
 
 .project-four {
-  background: #f5f5f5;
+  background: #aaaaaa;
+  color: #ffffff;
 }
 
 .project-content {
